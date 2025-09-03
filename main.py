@@ -9,7 +9,7 @@ import threading
 from datetime import timedelta, datetime
 
 TOKEN = '7342961553:AAFS1Md0ggLJcOsDrgjcrdiapP69x6wEV-4'
-CHANNEL_ID = -1002563535507
+CHANNEL_ID = -1002271168212
 bot = telebot.TeleBot(TOKEN)
 
 # Setup logging to file
