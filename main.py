@@ -8,7 +8,7 @@ import queue
 import threading
 from datetime import timedelta, datetime
 
-TOKEN = '7342961553:AAFS1Md0ggLJcOsDrgjcrdiapP69x6wEV-4'
+TOKEN = '7734547598:AAHXDWShe8HbA1MT2K0PgU8NIuvN3_kpJy0'
 CHANNEL_ID = -1002271168212
 bot = telebot.TeleBot(TOKEN)
 
